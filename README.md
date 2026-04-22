@@ -26,5 +26,3 @@
 
 * É o meu primeiro projeto utilizando Svelte e manipulando o localStorage do browser!
 * Caso encontre <strong>bugs</strong> ou tenha <strong>sugestões</strong>, estou à disposição.
-
-### 🔗 Acesse em: <a href="https://projeto-repo-keeper.vercel.app/">Repo Keeper</a>
